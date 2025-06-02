@@ -1,0 +1,5 @@
+malik inanc 105 500.00 305
+ilham mevlud 105 200.00 2005
+malik imanc 105 500.00 2006
+mesut ismail 1 345.00 2008
+orhan karani 105 900000.00 2000

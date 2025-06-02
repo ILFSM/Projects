@@ -1,0 +1,5 @@
+Finans 5
+IT 7
+HR 3
+Okul 105
+fsm 1

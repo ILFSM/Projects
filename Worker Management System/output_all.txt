@@ -1,0 +1,13 @@
+=== Birimler ===
+Birim: Finans(5), CalisanSayisi:0
+Birim: IT(7), CalisanSayisi:0
+Birim: HR(3), CalisanSayisi:0
+Birim: Okul(105), CalisanSayisi:4
+Birim: fsm(1), CalisanSayisi:1
+
+=== Calisanlar ===
+malik inanc Birim:105 Maas:500.00 GirisYili:305
+ilham mevlud Birim:105 Maas:200.00 GirisYili:2005
+malik imanc Birim:105 Maas:500.00 GirisYili:2006
+mesut ismail Birim:1 Maas:345.00 GirisYili:2008
+orhan karani Birim:105 Maas:900000.00 GirisYili:2000

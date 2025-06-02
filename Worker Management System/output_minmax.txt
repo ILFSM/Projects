@@ -1,0 +1,9 @@
+Birim: Finans(5), calisan yok.
+Birim: IT(7), calisan yok.
+Birim: HR(3), calisan yok.
+Birim: Okul(105)
+Min Maasli Calisan: ilham mevlud 200.00
+Max Maasli Calisan: orhan karani 900000.00
+Birim: fsm(1)
+Min Maasli Calisan: mesut ismail 345.00
+Max Maasli Calisan: mesut ismail 345.00
